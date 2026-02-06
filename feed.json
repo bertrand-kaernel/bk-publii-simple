@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "bk-pii",
+    "description": "",
+    "home_page_url": "https://bertrand-kaernel.github.io/bk-publii-simple",
+    "feed_url": "https://bertrand-kaernel.github.io/bk-publii-simple/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "BKaernel"
+    },
+    "items": [
+    ]
+}
