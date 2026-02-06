@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "bk-pii",
+    "title": "Bk-pii",
     "description": "",
     "home_page_url": "https://bertrand-kaernel.github.io/bk-publii-simple",
     "feed_url": "https://bertrand-kaernel.github.io/bk-publii-simple/feed.json",
@@ -9,5 +9,20 @@
         "name": "BKaernel"
     },
     "items": [
+        {
+            "id": "https://bertrand-kaernel.github.io/bk-publii-simple/section-1.html",
+            "url": "https://bertrand-kaernel.github.io/bk-publii-simple/section-1.html",
+            "title": "Pulvinar vivamus fringilla lacus nec metus",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia&hellip;",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.<br><br>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n  </p>",
+            "author": {
+                "name": "BKaernel"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2026-02-06T09:19:01+01:00",
+            "date_modified": "2026-02-06T11:39:22+01:00"
+        }
     ]
 }
