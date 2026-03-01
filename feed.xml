@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Bk-pii</title>
+    <title>BK-Pii</title>
     <link href="https://bertrand-kaernel.github.io/bk-publii-simple/feed.xml" rel="self" />
     <link href="https://bertrand-kaernel.github.io/bk-publii-simple" />
-    <updated>2026-02-06T11:42:42+01:00</updated>
+    <updated>2026-02-06T16:52:55+01:00</updated>
     <author>
         <name>BKaernel</name>
     </author>
     <id>https://bertrand-kaernel.github.io/bk-publii-simple</id>
 
     <entry>
-        <title> Ad litora torquent per conubia nostra inceptos himenaeos</title>
+        <title>Ad litora torquent per conubia nostra inceptos himenaeos</title>
         <author>
             <name>BKaernel</name>
         </author>
